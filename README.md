@@ -42,6 +42,9 @@ npm run build
 - Frontend forms for login, register, reset password, etc.
 - Custom React hooks to manage auth state & application data
 
+![UI](https://github.com/nikitapryymak/mern-auth-jwt/raw/main/preview.jpg)
+
+
 ### Technologies Used
 
 - **React**: For building the user interface
