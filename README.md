@@ -2,6 +2,8 @@
 
 This is the frontend of the project. The backend can be found [here](https://github.com/zishaxn/Auth-Project-Backend).
 
+Click [Here](https://auth-project-zishan.onrender.com) For Deployed Project
+
 ## Run Locally
 
 ### Navigate to the frontend directory & install dependencies
